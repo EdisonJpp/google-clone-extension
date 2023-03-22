@@ -21,10 +21,14 @@
  - **Code Formatting**
    - Prettier
    - Eslint
+   - Commitlint conventional
  - **Test**
    - Jest
  - **CI/CD**
    - Github Actions  
+ - **Others**
+   - Husky
+   - Lint staged  
 
 
 ![alt text](https://github.com/EdisonJpp/google-clone-extension/blob/main/src/assets/img/screenshots/home.png?raw=true)
