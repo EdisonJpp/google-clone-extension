@@ -1,0 +1,7 @@
+{
+  "**/*.{ts,tsx,js,jsx,css,scss,json}": [
+    "yarn run lint:fix",
+    "yarn run lint:strict",
+    "yarn run prettier:check"
+  ]
+}

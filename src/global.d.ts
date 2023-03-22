@@ -6,6 +6,7 @@ declare namespace chrome {
 }
 
 declare module "virtual:reload-on-update-in-background-script" {
+  // eslint-disable-next-line
   export const reloadOnUpdate: (path: string) => void;
   export default reloadOnUpdate;
 }

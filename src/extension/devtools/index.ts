@@ -5,5 +5,6 @@ try {
     "src/extension/panel/index.html"
   );
 } catch (e) {
+  // eslint-disable-next-line
   console.error(e);
 }

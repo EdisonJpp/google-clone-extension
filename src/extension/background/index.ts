@@ -8,4 +8,5 @@ reloadOnUpdate("extension/background");
  */
 reloadOnUpdate("extension/content/style.scss");
 
+// eslint-disable-next-line
 console.log("background loaded");

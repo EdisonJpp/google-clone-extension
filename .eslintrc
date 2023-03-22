@@ -27,5 +27,5 @@
   "globals": {
     "chrome": "readonly"
   },
-  "ignorePatterns": ["watch.js", "dist/**"]
+  "ignorePatterns": ["!.*", "dist", "node_modules"]
 }
